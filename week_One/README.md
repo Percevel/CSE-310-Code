@@ -2,11 +2,11 @@
 
 A program that just prints "Hello World" in the console
 
-youtube video demo - 
+youtube video demo - https://youtu.be/Vlsx6Am672o
 
 # Development Environment
 
- - Python.8.5
+ - Python 3.8.5
  - Visual Studios
  - GitHub
 
